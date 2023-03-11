@@ -1,0 +1,23 @@
+#Python'da Veri Tiplerini araştırınız, her bir veri tipi için kendi cümlelerinizle açıklamalar yazınız.
+int = Tam sayılar
+float = Ondalıklı sayılar
+str = Metinsel veya karakter tipler.
+bool = Mantıksal  veri tipidir.(True ve False değerlerini taşır.)
+list = Bileşik veri tipidir. [] ile gösterilir.Birden fazla aynı ya da farklı türden verileri barındırabilir. Liste içerisinde veri ekleme, çıkarma işlemleri yapılabilir.
+Tuple = list ile arasındaki fark: tuple içerisindeki veriler değiştirilemez.
+dict (sözlük) = Süslü parantez içerisindde yazılarak tanımlanır. key value yapısı ile verileri depolar.
+
+#Kodlama.io sitesinde değişken olarak kullanıldığını düşündüğünüz verileri, veri tipleriyle birlikte örneklendiriniz.
+
+string:kurs progamı,eğitmeniniz,ders programı.
+int: Öğrenci yorum sayısı
+    Dersin tamamlanma yüzdesi
+list= Ana sayfada yer alan kurslar
+bool = Bitir ve devam et butonu
+
+#Kodlama.io sitesinde şart blokları kullanıldığını düşündüğünüz kısımları örneklendiriniz ve Python dilinde bu örnekleri koda dökünüz.
+kariyerForm = True
+if(kariyerForm):
+    print("Lütfen formu doldurunuz.")
+else:
+    print("Zaten yanıt verdiniz.")
